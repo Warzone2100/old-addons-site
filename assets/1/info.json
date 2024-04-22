@@ -1,0 +1,15 @@
+{
+    "author": "ayct",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 18, 2013, 1:29 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Normal bases",
+    "title": "Battlehills",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "2cBattle_hills_v2.wz",
+    "download_sha256": "4624584eab8912558c80aba7c68b21e02530b9971b522978b85d8c4660a995ba",
+    "description": "2-player rush symmetrick map.\nVery simple, very quick battle.",
+    "id": 1
+}

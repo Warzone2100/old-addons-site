@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 1, 2013, 4:59 a.m.",
+    "oil": "Medium",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "Desert Ruins",
+    "license": "CC-0",
+    "download_name": "8cDesertRuins.wz",
+    "download_sha256": "99173e91b4bd17968a2e522973bfc15fa16e2608018d6aa989e6c826d7fdbea1",
+    "description": "A relatively small and tight 8-player FFA map; supports 2x2x2x2 and 4x4 matches in multiple layouts.",
+    "id": 25
+}

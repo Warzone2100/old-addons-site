@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "additional_authors": "Jorzi & qubodup & aubergine & cnceo",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "Nov. 20, 2013, 4:24 a.m.",
+    "player_mode": "Both",
+    "mod_category": "Graphics",
+    "title": "Glacier Tileset",
+    "license": "CC-0",
+    "download_name": "glacier02.wz",
+    "download_sha256": "595984629babd8dccfdad2c8a0dfeaa4c00d74e780c0a32265dd4b891e79c21e",
+    "description": "This mod replaces Rocky Mountains terrain with cold arctic terrain of snow and ice. \n\nApplicable to campaign and skirmish.\n\nv0.2: include snowy structure baseplates by cnceo!",
+    "id": 30
+}

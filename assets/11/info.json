@@ -1,0 +1,15 @@
+{
+    "author": "tmp500",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 19, 2013, 4:45 a.m.",
+    "oil": "Low",
+    "players": "10",
+    "bases": "Advanced Bases",
+    "title": "scramble",
+    "license": "CC-0",
+    "download_name": "10cscramble.wz",
+    "download_sha256": "a8a98be2d2afe9733c59aa78a13c9e80d64befec7fea715fe13f6d6359f86c36",
+    "description": "harmless scavs in the middle",
+    "id": 11
+}

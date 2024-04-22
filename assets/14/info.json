@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 20, 2013, 3:35 a.m.",
+    "oil": "Low",
+    "players": "10",
+    "bases": "Advanced Bases",
+    "title": "Riviera",
+    "license": "CC-0",
+    "download_name": "10cRiviera.wz",
+    "download_sha256": "03af763383bb2ae9ae997662b19a9c68c1b297b490da461be8fb633e37f741e0",
+    "description": "A huge asymmetric low-oil 10-player map designed mostly for skirmish games. Starting positions are unbalanced both in the sense of number of chokes and in the amount of oils. You may try a few and pick your favorite spot or check out different sorts of games emerging from different human and AI player layouts. ",
+    "id": 14
+}

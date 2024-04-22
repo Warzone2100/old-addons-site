@@ -1,0 +1,15 @@
+{
+    "author": "tmp500",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 19, 2013, 4:45 a.m.",
+    "oil": "Medium",
+    "players": "9",
+    "bases": "Advanced Bases",
+    "title": "ambulant",
+    "license": "CC-0",
+    "download_name": "9cambulant.wz",
+    "download_sha256": "448d84684a3dec9b4402378b9377cefbf68e92c62d71e968032ad897207438a2",
+    "description": "random scavs standing around,\nworks for ffa\n3vs3vs3 (012 vs 345 vs 678)\n3vs3vs3 (065 vs 173 vs 284)\n",
+    "id": 10
+}

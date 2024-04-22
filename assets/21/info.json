@@ -1,0 +1,15 @@
+{
+    "author": "tmp500",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 21, 2013, 2 a.m.",
+    "oil": "Medium",
+    "players": "7",
+    "bases": "Advanced Bases",
+    "title": "lowlife",
+    "license": "CC-0",
+    "download_name": "7clowlife.wz",
+    "download_sha256": "d1218e57e429057400f6daa4276065aea4bd693c478c4f29d9be79b78757c737",
+    "description": "7 player map, 0,1,2,3 vs 4,5,6\nplayers in the center have a protecting wall around them, moving your units downhill is also an advantage\nplayers at the bottom have one player more, also more oil resources",
+    "id": 21
+}

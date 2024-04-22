@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 1, 2013, 4:59 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Breach",
+    "license": "CC-0",
+    "download_name": "2cBreach101.wz",
+    "download_sha256": "29fc15df5e7ed0bd25f23c44637203d1726edd48cf49f8232b2dd62980e0b79a",
+    "description": "A map designed for competitive 1x1 duels. Its pecularities include multiple defensive positions, non-blocking scavenger spots, large amounts of destroyable features to spice up early micromanagement, and relatively tight starting positions.",
+    "id": 13
+}

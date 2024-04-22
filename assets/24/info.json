@@ -1,0 +1,17 @@
+{
+    "author": "NoQ",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "April 1, 2013, 4:58 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "Mansion",
+    "license": "CC-0",
+    "download_name": "4cMansion.wz",
+    "download_sha256": "c4ee3e0ece43b2d8b168efa3b3aae170c4970813fdaa34dfe1abbed61efec3e5",
+    "description": "A map with custom textures known as \"the marble tileset\".\n\nThe map itself is a 4-player FFA with narrow chokepoints and blocking scavengers.",
+    "id": 24
+}

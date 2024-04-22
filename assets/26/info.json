@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 1, 2013, 4:59 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Omega",
+    "license": "CC-0",
+    "download_name": "2cOmega.wz",
+    "download_sha256": "366cfdda7b157f6427756b5d6fba4a4e2b4aa30a068f981f3587d9ff179d4c75",
+    "description": "An experimental 1x1 duel map. It has exactly two chokepoints: a one-tile wide blocked by huts shortcut and a wide but long way around the hill. For the early tanks it takes almost equal amount of time to reach the enemy whatever way they choose.",
+    "id": 26
+}

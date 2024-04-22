@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "additional_authors": "Jorzi & Berg",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "April 6, 2013, 5:14 a.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "Paradise Tileset",
+    "license": "CC-0",
+    "download_name": "paradise103.wz",
+    "download_sha256": "b63c8f6d7a9beef197791ad2887edbbb9164a15bbae4f095e9269799ead2095c",
+    "description": "This mod replaces Arizona terrain with some sort of paradise terrain of sunny green grass, beaches palm trees. \n\nApplicable to skirmish/multiplayer only.",
+    "id": 29
+}

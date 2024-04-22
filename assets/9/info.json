@@ -1,0 +1,15 @@
+{
+    "author": "tmp500",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 19, 2013, 4:45 a.m.",
+    "oil": "Medium",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "title": "hideous",
+    "license": "CC-0",
+    "download_name": "6chideous.wz",
+    "download_sha256": "92c878d278a7086743ecbb9c3f32511f560cc86fa9fde4128be1a4b5a998af9d",
+    "description": "symetrical map, should work for ffa, or 0,1,2 vs 3,4,5",
+    "id": 9
+}

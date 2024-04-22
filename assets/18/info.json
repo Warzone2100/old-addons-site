@@ -1,0 +1,15 @@
+{
+    "author": "tmp500",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 21, 2013, 1:59 a.m.",
+    "oil": "Medium",
+    "players": "10",
+    "bases": "No bases",
+    "title": "trash",
+    "license": "CC-0",
+    "download_name": "10ctrash_v2.wz",
+    "download_sha256": "536680e0100a74ce159c621c105207dc65861a6ef77dda23ccbc3ffb9f2058af",
+    "description": "10 player map\n1st high oil section: scavs occupy all derricks, so be sure to get units or mg towers before your cash runs out\n2nd high oil section: normal boring ntw style\n3rd section for 4 players med oil - many barrels\n4th section 1vs1 - also many barrels",
+    "id": 18
+}
