@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 1, 2013, 12:22 a.m.",
+    "oil": "High",
+    "players": "9",
+    "bases": "Advanced Bases",
+    "title": "DA-firefight4x5",
+    "license": "CC-0",
+    "download_name": "9cDAfirefight4x5b.wz",
+    "download_sha256": "46c5281fe5ac12eb4be79e31db64855d84ef3131117c0d30e5db3d8b7d607592",
+    "description": "4 vs 5 (firefight-map-collection) \n\n16 oil per base (+ 16 near top bases - its oil balanced) \n+ 2 per platau near base \n+ 8 oil in the middel scav bases \n\n(beware of the scavs on startup)",
+    "id": 97
+}

@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 4:27 p.m.",
+    "oil": "Medium",
+    "players": "9",
+    "bases": "Normal bases",
+    "title": "DA-scav-isle",
+    "license": "CC-0",
+    "download_name": "9cDAscavislev0.wz",
+    "download_sha256": "f66164ba9c0eac26eaf94bce6172cfb146a379b676c0e0dd407a7e5692843432",
+    "description": "3 vs 3 vs 3\n\n8 oil per base + 17 from scavengers",
+    "id": 82
+}

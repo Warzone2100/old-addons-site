@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 5:41 p.m.",
+    "oil": "High",
+    "players": "10",
+    "bases": "Normal bases",
+    "title": "DA-plus",
+    "license": "CC-0",
+    "download_name": "10cDAplusv1.wz",
+    "download_sha256": "94b489754a2859f760d99897a900d198964a6a850fb22a54d35b9c96145a44a2",
+    "description": "5vs5 multiplayer map\n\n16 oil per base + from scav + oil drums on the \"pluses\"",
+    "id": 85
+}

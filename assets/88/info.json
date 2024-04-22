@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 4:27 p.m.",
+    "oil": "Low",
+    "players": "10",
+    "bases": "Advanced Bases",
+    "title": "DA-mlake",
+    "license": "CC-0",
+    "download_name": "10cDAmlakev1.wz",
+    "download_sha256": "0d5359edeb5c6eb08f79fcd116931d4df2f786bdac7a78abc91579fa3b392962",
+    "description": "5 vs 5\n\n6 oil per base + from scavs + oil drums",
+    "id": 88
+}

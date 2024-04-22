@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 5:41 p.m.",
+    "oil": "Low",
+    "players": "8",
+    "bases": "Normal bases",
+    "title": "DA-medical",
+    "license": "CC-0",
+    "download_name": "8cDAmedicalv1.wz",
+    "download_sha256": "3b27f1542bcb5655dad842f93aff48fb67bd8302546e789066e64c5b9f85d876",
+    "description": "4 vs 4",
+    "id": 84
+}

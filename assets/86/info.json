@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 5:41 p.m.",
+    "oil": "Medium",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "title": "DA-miniaena",
+    "license": "CC-0",
+    "download_name": "6cDAminiaenav0.wz",
+    "download_sha256": "7a002616b868616256c3f167477f699506f78a55801a5080e1c5800e4920ecb3",
+    "description": "3 vs 3\n\n8 oil per player + many from scav",
+    "id": 86
+}

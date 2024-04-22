@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 1, 2013, 12:22 a.m.",
+    "oil": "High",
+    "players": "3",
+    "bases": "Advanced Bases",
+    "title": "DA-firefight1x2",
+    "license": "CC-0",
+    "download_name": "3cDAfirefight1x2b.wz",
+    "download_sha256": "fd20d0ed1847e488919907e8f764aeabbe8421660f9fb71ac63465c81b59bf68",
+    "description": "1 vs 2 (firefight-map-collection)\n\n16 oil per base (+ 16 on single base - its oil balanced)\n+ 2 per platau near base \n+ 8 oil in the middel scav bases \n\n(beware of the scavs on startup)\n",
+    "id": 91
+}

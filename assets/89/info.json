@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 4:27 p.m.",
+    "oil": "Low",
+    "players": "3",
+    "bases": "Normal bases",
+    "title": "DA-castle-b3",
+    "license": "CC-0",
+    "download_name": "3cDAcastleb3.wz",
+    "download_sha256": "bc4d5831dcbab2cea7c0ca18baa61437d076c6207dfe9e8ac6623dca76443903",
+    "description": "1 vs 1 vs 1 \n\n4 oil per base",
+    "id": 89
+}

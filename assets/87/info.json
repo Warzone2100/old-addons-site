@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 5:41 p.m.",
+    "oil": "High",
+    "players": "10",
+    "bases": "Advanced Bases",
+    "title": "DA-oilarena-v1",
+    "license": "CC-0",
+    "download_name": "10cDAoilarenav1.wz",
+    "download_sha256": "aa55b8235d69009311f16dc3716b1352ab2acd3e48b12d81aa507f6bf19fd8ef",
+    "description": "5 vs 5 \n\n16 oil per base + from scavenger",
+    "id": 87
+}

@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 4:27 p.m.",
+    "oil": "Medium",
+    "players": "8",
+    "bases": "Normal bases",
+    "title": "DA-fjordz",
+    "license": "CC-0",
+    "download_name": "8cDAfjordzv0.wz",
+    "download_sha256": "722f7caa383a8a94e7d082e7b7e05ca3c1a8d325dd3b213125f7ad01e73660a9",
+    "description": "4 vs 4\n\n12 Oil per Player + Scav Oil",
+    "id": 81
+}

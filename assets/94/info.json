@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 4:27 p.m.",
+    "oil": "Medium",
+    "players": "6",
+    "bases": "Normal bases",
+    "title": "DA-firefight3x3",
+    "license": "CC-0",
+    "download_name": "6cDAfirefight3x3b.wz",
+    "download_sha256": "4e7db9e6bf3b4b33e887a2ac00f324dcc194264f0599146a22e87efe0c40f073",
+    "description": "3 vs 3 (firefight-map-collection) \n\n16 oil per base \n + 2 per platau near base\n + 8 oil in the middel scav bases \n\n(beware of the scavs on startup)",
+    "id": 94
+}

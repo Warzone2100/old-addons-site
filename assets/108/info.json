@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 2, 2013, 11:20 p.m.",
+    "oil": "High",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "title": "DA-towers",
+    "license": "CC-0",
+    "download_name": "6cDAtowersv2.wz",
+    "download_sha256": "cf44ef780b6215f899953ff42a012fa6fb6005a7cd0328dadc74e00110449de6",
+    "description": "3 vs 3\n\n16 oil per base + from scavengers",
+    "id": 108
+}

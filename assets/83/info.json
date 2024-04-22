@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "March 31, 2013, 5:41 p.m.",
+    "oil": "Medium",
+    "players": "8",
+    "bases": "Normal bases",
+    "title": "DA-gr-canyon",
+    "license": "CC-0",
+    "download_name": "8cDAgrcanyonv1.wz",
+    "download_sha256": "63141b3e429ef67b6d463401e8caa9b8562371d5e0b8d0d88b7bd2abe5db19a7",
+    "description": "4 vs 4\n\ninspired from the real grand canyon\n\n8 oil per base + 2 per player from scavanger",
+    "id": 83
+}
