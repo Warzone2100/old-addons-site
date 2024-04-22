@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.2",
+    "created": "Feb. 18, 2015, 2:16 a.m.",
+    "oil": "High",
+    "players": "7",
+    "bases": "Advanced Bases",
+    "title": "Starscavs",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "7cStarscavs.wz",
+    "download_sha256": "0b5420d9b6894e74a5e1849aafd7e5c5b6b590f61a2407adfd45fa412d6ab607",
+    "description": "It`s a symmetrical 7-player map in correct rotation.  \n6 oils+2trucks/player in the base + 8 oil/player/terrain +9 oils/scavs. (7 around in the outposts+2 in the middle) = 15,3 oil/player. I placed doublepacks of oil to fight for. Advanced bases with light/medium defense. ",
+    "id": 293
+}

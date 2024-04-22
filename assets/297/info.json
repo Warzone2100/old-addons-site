@@ -1,0 +1,14 @@
+{
+    "author": "Black Project",
+    "type": "Mod",
+    "game_version": "3.2.0",
+    "created": "July 17, 2016, 6:26 p.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Other",
+    "title": "BP's Expanded Structure Limits - 3.2 Release",
+    "license": "CC-0",
+    "download_name": "bp_32_limits_mod_v1.wz",
+    "download_sha256": "a4e7a1cdc392e6189a2f032051f8b0ec3c30d252c3efcafec70352551cfaf0b0",
+    "description": "HOW TO INSTALL MODS: http://developer.wz2100.net/wiki/FAQ#HowdoIinstallamod\n\nAs it's name suggests, it increases the game's structure limits list by adding 7 pages worth of structures to be limited by your discretion.\n\nIn addition to the default core structures present in the game, players can now limit base structure modules, anti-aircraft emplacements, artillery batteries, direct-fire defenses and the massively powerful fortresses.\n\nAnd lastly, players can now build up to 200 units as opposed to 150 units.\n\nStructures added to the limit list:\n\nHardcrete Gate\nHardcrete Wall\nPower Module\nResearch Module\nOil Derrick\nTank Traps\nAA Flak Cannon Emplacement\nHurricane AA Site\nWhirlwind AA Site\nJammer Tower\nIncendiary Howitzer Emplacement\nHowitzer Emplacement\nGround Shaker Emplacement\nArchangel Missile Emplacement\nMini-Rocket Battery\nSeraph Missile Battery\nEMP Mortar Pit\nIncendiary Mortar Pit\nMortar Pit\nBombard Pit\nRipple Rocket Battery\nHellstorm Emplacement\nPepperpot Pit\nMachinegun Guard Tower\nStormbringer Emplacement\nAvenger SAM Site\nVindicator SAM Site\nSunburst AA Site\nCB Tower\nRadar Detector Tower\nSensor Tower\nHardened Sensor Tower\nWide Spectrum Sensor Tower\nNexus Link Tower\nVTOL CB Tower\nVTOL Strike Tower\nAssault Gun Hardpoint\nAssault Cannon Hardpoint\nScourge Missile Hardpoint\nAA Flak Cannon Hardpoint\nEMP Cannon Hardpoint\nHyper Velocity Cannon Hardpoint\nTank Killer Hardpoint\nPulse Laser Hardpoint\nWhirlwind Hardpoint\nRail Gun Hardpoint\nGauss Cannon Hardpoint\nVindicator Hardpoint\nAvenger Hardpoint\nTwin Assault Gun Hardpoint\nHeavy Machinegun Hardpoint\nLight Cannon Hardpoint\nMedium Cannon Hardpoint\nHeavy Cannon Hardpoint\nLancer Hardpoint\nCannon Fortress\nMass Driver Fortress\nMissile Fortress\nHeavy Rocket Bastion\n\nStructures not added to the limit list:\n\nTank Killer Emplacement\nHyper Velocity Cannon Emplacement\nFlashlight Emplacement\nHeavy Laser Emplacement\nPlasma Cannon Emplacement\nRail Gun Emplacement\nGauss Cannon Emplacement\nNeedle Gun Guard Tower\nScourge Missile Guard Tower\nPulse Laser Guard Tower\nRocket Pod Guard Tower\nLancer Guard Tower\nMachinegun Bunker\nAssault Gun Bunker\nLight Cannon Bunker\nFlamer Bunker\nInferno Bunker\nPlasmite Flamer Bunker\nTwin Assault Cannon Bunker\n",
+    "id": 297
+}

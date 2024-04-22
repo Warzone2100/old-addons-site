@@ -1,0 +1,15 @@
+{
+    "author": "Black Project",
+    "additional_authors": "Illuvalar & NoQ",
+    "type": "Mod",
+    "game_version": "3.1.2",
+    "created": "Jan. 4, 2015, 11:15 p.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Stats (Balance)",
+    "title": "BP's Rebalance Mod",
+    "license": "CC-0",
+    "download_name": "BP_Rebalance_Mod_v03a.wz",
+    "download_sha256": "1e5ada1d93572bfdc9515e18e4000a5b9879284d7e8f4f5fd1e7bccc1f082ed4",
+    "description": "Gameplay/rebalance modification inspired by Illuvalar's New Reseach System Mod and Warzone Nostalgia, an old mod created by myself.",
+    "id": 280
+}

@@ -1,0 +1,15 @@
+{
+    "author": "Doruletz",
+    "type": "Map",
+    "game_version": "3.1.5",
+    "created": "Jan. 16, 2017, 4:48 p.m.",
+    "oil": "High",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "DO-FortScavWar4p",
+    "license": "CC-0",
+    "download_name": "4cDOFortScavWar4p.wz",
+    "download_sha256": "ff035c13bb0a88987859c497e6a6a55ea14b162eab2201b77d2ccd5bb2e07a88",
+    "description": "And finally, this is the 4 player version of the map.\nThe map size is still 60 wide by 192 long, same as the initial 2 player version, which I consider being enough for a 4 players map, but no more.\nSo, unless I ever decide to take the time to start again from scratch on a bigger size map, there's not gonna be any 6, 8 or 10 player version of this map.\n\nBasically, what I did is I took the original 2 players map and divided both bases in half, in order to end up with 4 of them.\nThen I started to rearange stuff..\nDue to space limitations (I hate overcrowded maps), each player now only has 20 oils in base, but there's also the 16 oils from Scavengers, which will add another 4 for each player if need be...\nBase defenses were also spilt in half, with each player getting his half of what the original 2 player map lineup used to be.\nFor startup base buildings, I decided to give each player all 5 Factories, plus 2 Power generators and 2 Research Facilities.\nThe reason for puting all 5 Factories on the map was explained in the previous 3 player version. Basically I just like to have all Factories facing the right way, so object rotation is necessary...\nNote that none of the above mentioned base structures have the corresponding MODULES applied from the get go, I'll leave that task to each player.\nAnd of course, there's the much debated Command Relay Center, which is almost never of any use in online multiplayer games, but might come in handy for Skirmish games against AI.\nLike for example, I sometimes use Commanders and Battle Groups against AI to \"pick a fight\", or just harrass them a little.\n\nEverything else is the same, including the Scavenger Fortress in the middle, with their 16 oils.\n\nI almost forgot, I also put 10 extra Incendiary Howitzers in the Scavenger Fortress, behind each wall facing the respective 2 player team side, so a total of 20 extra Incendiary Howitzers have been added to the Scavenger Fortress arsenal.\n\nAs with the previous 2 and 3 player versions, this map has also been tested, and is working fine in v3.1.5, v3.2.1 and v3.2.2\n\nFor a more detailed description and storyline, please see the original 2 player version, which I uploaded first.\nEnjoy.\n\nP.S. - As mentioned before, in the original 2 player map description, please shoot me a PM to let me know what you think. Comments and suggestions are always appreciated.",
+    "id": 302
+}

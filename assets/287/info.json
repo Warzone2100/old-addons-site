@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.2",
+    "created": "Jan. 9, 2015, 8:15 p.m.",
+    "oil": "Medium",
+    "players": "9",
+    "bases": "Normal bases",
+    "title": "9c-BrooksRange",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "9cBrooksRange.wz",
+    "download_sha256": "b9744cbf16ef24a787aa5954898c96e8aca02cd59a20b715e53840c81830bf14",
+    "description": "Symmetrical 9-player map. The angles between the bases are set correctly. A rotation with the desired angle degree (40) has been performed. It is a very large map. So it is with --4oils and 2trucks/base+72 oil/map+4/scavs = 12,44 oil/player—a lowoil map (IMO). Normal bases.",
+    "id": 287
+}

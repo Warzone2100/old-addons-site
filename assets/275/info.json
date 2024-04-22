@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "June 1, 2014, 2:56 p.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Normal bases",
+    "title": "Winteragony",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "2cWinteragony.wz",
+    "download_sha256": "25a91bc847cd802384235303f76921b038372ed8420f3785759bd9907eb6a5f7",
+    "description": "2-Player map with many chokepoints/passes. 4 oils/base,16/terrain = total 24 oil. \nHave fun",
+    "id": 275
+}

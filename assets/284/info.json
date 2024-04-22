@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Dec. 5, 2014, 7:20 p.m.",
+    "oil": "Medium",
+    "players": "7",
+    "bases": "Normal bases",
+    "title": "Thales",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "7cThales.wz",
+    "download_sha256": "c5f653ae18642250220fb151eef79cf0a5eb88bd49e98c069722227ee734ea0b",
+    "description": "7-player map with a little scav base in the middle. The bases are in a correct Heptagon. \nThe heightmap is not symmetric. Size 160/160. Distance between the bases = 66. \n4 trucks and 6 oils /base. 101 oils/terrain +4/scavs = 21 oil/player.",
+    "id": 284
+}

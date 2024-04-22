@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Nov. 20, 2014, 9:18 a.m.",
+    "oil": "High",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "Forestcity",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "8cForestcity.wz",
+    "download_sha256": "02f350fe7e952fbf75c7a51a1eba0f50c93aacf51202bc04c1ab3722b3d2db1a",
+    "description": "Large (220x220) 8-player map with a big city in a forest in the middle of the map. It is also possible to play 2vs2vs2vs2 or 4vs4. 4 oils and 4 trucks/base. 128 oil at the terrain = 20 oil/player. Advanced bases with light defense structures",
+    "id": 283
+}

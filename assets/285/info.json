@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Dec. 28, 2014, 9:30 p.m.",
+    "oil": "High",
+    "players": "5",
+    "bases": "Normal bases",
+    "title": "Pentagonscavs",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "5cPentagonscavs.wz",
+    "download_sha256": "7c8b5a4128ff937804db8453971c3ab8878ff9103f4c7331bdf4a0c3b0c7641d",
+    "description": "Symmetrical 5-player map in Pentagonstyle. The map is very large (240x240) but the distance between the bases is only 80. 6 oils and 2 trucks/player + 60 oil/terrain + 7 oil/scavs = 19,4 oil/player. \n\n\n",
+    "id": 285
+}

@@ -1,0 +1,14 @@
+{
+    "author": "Prot",
+    "type": "Mod",
+    "game_version": "3.1.5",
+    "created": "Feb. 5, 2017, 12:12 p.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "AI",
+    "title": "BoneCrusher!",
+    "license": "CC-0",
+    "download_name": "bonecrusher_0.17_0.18.wz",
+    "download_sha256": "85b4a1168de435af76a6257ec5eb82a87c9fe91f379afc9a721a6eb2399be31d",
+    "description": "AI Mod WIP.\n\nThis is non-cheat bot originaly developed for AI vs AI competition.\nGitHub page: https://github.com/EuPhobos/bonecrusher\nVersion 0.17 and 0.18 included",
+    "id": 294
+}

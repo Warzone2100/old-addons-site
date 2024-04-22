@@ -1,0 +1,15 @@
+{
+    "author": "Doruletz",
+    "type": "Map",
+    "game_version": "3.1.5",
+    "created": "Jan. 16, 2017, 1:35 p.m.",
+    "oil": "Extreme",
+    "players": "3",
+    "bases": "Advanced Bases",
+    "title": "DO-FortScavWar3p",
+    "license": "CC-0",
+    "download_name": "3cDOFortScavWar3p.wz",
+    "download_sha256": "10a7ff3a73f06e22534d8729470b293fc11b12eeba88ad79abc829e3564e61d6",
+    "description": "This is the 3 player version of the map, as promised.\nOnly good for a 2 vs 1, due to the way bases are located on the map.\n\nBasically, what I did is split one of the bases in two, creating 2 neighbors / allies sharing real estate on the map.\nTo keep things somewhat balanced, the \"lonely wolf player\" has more or less double the amount of everything.\nSo, Player \"0\" gets 40 oils in base, 5 Factories, 5 Research Facilities and 4 Power Generators, while the team of Player \"1\" and \"2\" only get 20 oils in base each, 2 Factories, 2 Research Facilities and 2 Power Generators each.\n\nEverything else is the same, including the Scavenger Fortress in the middle, with their 16 oils.\nI almost forgot, I also put 10 extra Incendiary Howitzers in the Scavenger Fortress, behind the wall facing the 2 player team side.\n\nThe map size is still 60 wide by 192 long, same as the 2 player version.\nAlso tested, and working fine in v3.1.5, v3.2.1 and v3.2.2\n\nFor a more detailed description and storyline, please see the original 2 player version, which I already uploaded here earlier.\n\nEnjoy.\n\nP.S. - As mentioned before, in the original 2 player map description, please shoot me a PM to let me know what you think. Comments and suggestions are always welcome.",
+    "id": 301
+}

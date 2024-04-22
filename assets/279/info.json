@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Sept. 13, 2014, 5:49 p.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Fantastic",
+    "license": "CC-0",
+    "download_name": "4cFantastic.wz",
+    "download_sha256": "5785d2cded9272b24e07baf804ee77471a4237877d79682fff06ce51bd10f4cd",
+    "description": "A wide 4-player FFA map with overridden tile types.",
+    "id": 279
+}

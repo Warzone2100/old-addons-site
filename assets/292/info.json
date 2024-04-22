@@ -1,0 +1,15 @@
+{
+    "author": "Jorzi",
+    "additional_authors": "MaNGusT, cnceo, Alpha93, Olrox, macuser",
+    "type": "Mod",
+    "game_version": "3.3.0",
+    "created": "March 4, 2019, 1:06 a.m.",
+    "player_mode": "Both",
+    "mod_category": "Graphics",
+    "title": "Art Revolution mod beta",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "dummy_file.wz",
+    "download_sha256": "3ca9ba0b1fd3ff2c73f4886e9ea5dc29ca93c8d512f097d28bc8bb358fc4da8b",
+    "description": "-----PLEASE NOTE--------\nUnfortunately this mod is too large to host in the addons section, please download at:\nhttps://sourceforge.net/projects/artrev2100/files/latest/download\n-----PLEASE NOTE--------\n\nThe goal of this mod is to recreate all the graphical assets in high detail, using dynamic lighting and normal & specular mapping.\n\nWhile we may take a few artistic liberties, we try to stay as true to the original style as possible, so you should be able to recognize the tanks & weapons.",
+    "id": 292
+}

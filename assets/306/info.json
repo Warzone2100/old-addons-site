@@ -1,0 +1,14 @@
+{
+    "author": "Berserk Cyborg",
+    "type": "Mod",
+    "game_version": "3.2.3",
+    "created": "May 15, 2017, 11:52 p.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "AI",
+    "title": "Cobra AI",
+    "license": "CC-0",
+    "download_name": "Cobra.wz",
+    "download_sha256": "073da6c2a263929e3cc0ab345863bb713c574f941cd42a410f169ed212411d61",
+    "description": "Cobra is a skirmish AI I made to change based on the map (supports hover maps), starting technology, base level, and a somewhat adaptive research order.\n\nIt has five personalities that prefer different types of weapons which are dynamically chosen depending on the map starting technology or base level. \n\nIncludes many chat commands that can range from changing the personality, issue orders, or even telling it to only use hover propulsion.\n\nOffers extra challenges if on Hard and especially Insane difficulty (may need to change your play style).\n\nThis AI uses a modified variant of NoQ's Nullbot standard for access to weapon/research definitions.\n\nFor more information visit the Git repository below\nhttps://github.com/KJeff01/Cobra-AI\nchat commands include: need power/truck/tank/cyborg/vtol. attackX -- (X being a player number). oilX -- to specifically attack nearby enemy oil. help me!/help me!! for calling for Cobra units to go to your hq (for compatibility with Nexus AI). AC/AR/AB/AM/AL -- make it switch personalities. FFA -- after a team skirmish is won, break alliance and fight it. toggle mg -- disable/enable machinegun use. toggle cyborg -- disable/enable cyborg use. toggle hover -- disable/enable force Cobra to use hover propulsion.",
+    "id": 306
+}

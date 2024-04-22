@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "June 1, 2014, 2:40 p.m.",
+    "oil": "Medium",
+    "players": "3",
+    "bases": "Normal bases",
+    "title": "trefoil",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "3ctrefoil.wz",
+    "download_sha256": "e09eef00b4b3514ce3d3175c1ae8e1cb5e57d2c40b1a6f907a8e613ba1eff26c",
+    "description": "4 oils at base. 16 oil/terrain. It is very hard to defend the base, because the enemy has 4 possibilities to attack the base. One with hovers. The scavs are only with defense bunkers without units/factories. Against NullBot it makes more fun to play without the scav-bunkers",
+    "id": 270
+}

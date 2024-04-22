@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "June 1, 2014, 2:33 p.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "MontenegroB",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "4cMontenegroB.wz",
+    "download_sha256": "6ad127b1643f6cbcbb3282a74f308a9366a49470346bbceb4e4749767e22f4bb",
+    "description": "4-player-map (size 160/160). Symmetric. (some features not). 4 derricks at the base +28/terrain. But the scavs are the problem. There is a large scavenger presence at the center of the map on a very high plateau, controling 8 oils. Destroying them and claiming their oil is a top priority if you want to win",
+    "id": 273
+}

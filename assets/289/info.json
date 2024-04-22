@@ -1,0 +1,15 @@
+{
+    "author": "montetank",
+    "type": "Map",
+    "game_version": "3.1.2",
+    "created": "Jan. 19, 2015, 8:01 p.m.",
+    "oil": "Low",
+    "players": "3",
+    "bases": "Normal bases",
+    "title": "RatIsland",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "3cRatIsland.wz",
+    "download_sha256": "329bc606e73b38746c3c90dfd27da61249933880792d9f5a1f0a834e56f1956c",
+    "description": "Ratisland (Alaska). A symmetric 3-player map, rotated in correct 120 angular degrees. With scavs and normal bases. And many features.\n2 trucks and 4 oil/base + 13+3(scavs)/terrain= 9,33 oil/player",
+    "id": 289
+}
