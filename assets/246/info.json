@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 10, 2013, 3:45 a.m.",
+    "oil": "High",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Frostblade",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "4cFrostblade.wz",
+    "download_sha256": "54bd3ca80477dd2b094090b9fec6e2f9d5b1e679b787c9ab4c840eccd8f6eb81",
+    "description": "Frostblade is a 4 player rockies map that is inspired by some of the aspects of Sk-Rush. The 4 bases are at right angles to each other, there is a route around the back of all the bases, there are oil resources in the very corners of the map, the central hill/mountain has been replaced with a lake.\n\nWhen enabled the scavengers have a presence in the centre and corners of the map and are in possession of 17 oil resources.\n\n16.25 oil resources per player. 1 oil resources is only accessible via hover technology.",
+    "id": 246
+}

@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Feb. 6, 2014, 9:16 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Invaders",
+    "license": "CC-0",
+    "download_name": "2cInvaders.wz",
+    "download_sha256": "055187f9d1409e71d7cbfe17e1cd05ece87c7b86abaed16026420779f320cf65",
+    "description": "19 oils total = (4 base + 5 outer + 1/2 middle) per player. The single middle oil is blocked from truck rush by ruins and optional static scavengers (which don't have units or factories, just defense).\n\nLoosing one of the five of your outer oils shouldn't make you instantly loose the others. This map offers increased highground advantage to nerf early rushes and base harass attacks.",
+    "id": 263
+}

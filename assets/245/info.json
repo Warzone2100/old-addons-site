@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 9, 2013, 8:35 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Normal bases",
+    "title": "OutskirtsM",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "2cOutskirtsM.wz",
+    "download_sha256": "f8a73084458024019418ae93e3119f755fea6c27d44f1d015b494248ff469e4a",
+    "description": "This is a rotationally symmetrical (both textures and heights) 1v1 duel map that was originally created for use in a tournament.\n\nOutskirtsM is special in that it uses custom scroll limits to produce an unabrupt edge to the map with additional, inaccessible terrain viewable in the distance. (the map image shown here has been edited to reflect this)\n\n10.5 oil resources per player.\n\nThe map was originally just called Outskirts, but clashed with a map of the same name on release.",
+    "id": 245
+}

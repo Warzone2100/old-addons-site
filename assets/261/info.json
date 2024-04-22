@@ -1,0 +1,15 @@
+{
+    "author": "tmp500",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "July 20, 2014, 2:34 p.m.",
+    "oil": "Low",
+    "players": "10",
+    "bases": "No bases",
+    "title": "Trickery Treat",
+    "license": "CC-0",
+    "download_name": "10cTrickeryTreat_v2.wz",
+    "download_sha256": "6d072b658ab0b9bd8a84067034a68fc44fa9ebac7de19a8c0a966685e3b781ae",
+    "description": "all oil trails have an additional oil barrel. scavs in the center of the map preventing players to rush. provided units are damaged, use them with care",
+    "id": 261
+}

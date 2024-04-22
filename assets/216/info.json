@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 9, 2013, 11:37 p.m.",
+    "oil": "Low",
+    "players": "9",
+    "bases": "Advanced Bases",
+    "title": "DA-bahrain",
+    "license": "CC-0",
+    "download_name": "9cDAbahrainv1.wz",
+    "download_sha256": "27eec99f36b939c18c5a21d8e82dbbff02587f1fcdb54a063fb622ee73dea96e",
+    "description": "A low oil map (4 oil in base + 1,5/player from scavenger) inspired from real terrain of the Kingdom.\n\nCreated for Multiplay 3vs3vs3, but also nice against bots.",
+    "id": 216
+}

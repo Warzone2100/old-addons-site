@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 6, 2013, 9:02 p.m.",
+    "oil": "Extreme",
+    "players": "10",
+    "bases": "Normal bases",
+    "title": "DA-BDCTW10-v1max",
+    "license": "CC-0",
+    "download_name": "10cDABDCTW10v1max.wz",
+    "download_sha256": "fa22f6c1ce0983dfee96b56355d6e7a51b01615ac4b4357c76c48390bdce7b3a",
+    "description": "My BDC (Black Dragon Clan) tribute map.\n\nThere exist different versions (less oil) - look forum thread.",
+    "id": 215
+}

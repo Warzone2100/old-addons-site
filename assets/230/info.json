@@ -1,0 +1,15 @@
+{
+    "author": "IJustDontCare",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Sept. 1, 2013, 4:37 p.m.",
+    "oil": "Medium",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "title": "NavalPort",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "6cNavalPort.wz",
+    "download_sha256": "eefa5c3764279c49d5ab33c56539c0f17eb78214c548b7ddb0ecf2661f600579",
+    "description": "3v3 Symmetrical Map\n\nA strategic port left behind by the Collective. Battle your foes for control of the port! Be careful of the water where your enemies may try to cross!\n\nBest team set up (0, 1, 2) vs (3, 4, 5).",
+    "id": 230
+}

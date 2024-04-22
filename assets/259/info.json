@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Jan. 24, 2014, 7:51 p.m.",
+    "oil": "High",
+    "players": "10",
+    "bases": "Advanced Bases",
+    "title": "DA-towers10v0",
+    "license": "CC-0",
+    "download_name": "10cDAtowers10v0.wz",
+    "download_sha256": "b5928c96f1da743ec8b04d364293699538285f0e18fda18fa6e391a463e54054",
+    "description": "DA-towers map for 10 player. \n5 vs 5\n17,4 oil per player\nfull base (16 oil) \nScavengers",
+    "id": 259
+}

@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Sept. 2, 2013, 2:47 p.m.",
+    "oil": "Medium",
+    "players": "5",
+    "bases": "Advanced Bases",
+    "title": "Forceps",
+    "license": "CC-0",
+    "download_name": "5cForceps.wz",
+    "download_sha256": "37cb4f1f5fca5801cceb5f990f739082d597e4444e4b442bdd7134826fd001c4",
+    "description": "Map of the five players. Trucks on the center of the map is integrated oil at the beginning of the game, also keep an attention.",
+    "id": 231
+}

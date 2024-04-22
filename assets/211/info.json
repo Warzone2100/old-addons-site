@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 2, 2013, 8:48 a.m.",
+    "oil": "Medium",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "title": "Snowfall",
+    "license": "CC-0",
+    "download_name": "6cSnowfall.wz",
+    "download_sha256": "0371da9e622ce550f46d91f1f21a26671dcffc18e709cd2ddd9acb14589ea1a0",
+    "description": "A 6-player FFA map that includes rough mountains, open sea and wide valleys.",
+    "id": 211
+}

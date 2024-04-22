@@ -1,0 +1,14 @@
+{
+    "author": "Berg",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "Dec. 14, 2013, 1:19 a.m.",
+    "player_mode": "Both",
+    "mod_category": "Graphics",
+    "title": "Vtol pad",
+    "license": "CC-0",
+    "download_name": "VTOL_PAD.wz",
+    "download_sha256": "2acdc48428b2ad831b0999690a49b71970481e756493f2987c8de58ac46cd600",
+    "description": "An Animated Vtol re-arming pad",
+    "id": 252
+}

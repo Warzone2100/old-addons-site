@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 10, 2013, 6:29 a.m.",
+    "oil": "Medium",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "TheGrid",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "8cthegrid.wz",
+    "download_sha256": "6183b8e0425ff1fb2bdce529a24ad09cad47898dffbf085950ad8a22477ccc03",
+    "description": "TheGrid is an 8 player urban map with man-made looking terrain.\n\nDue to the layout, the map is slightly unfair to the players in the corners of the map due to them being further from the centre.\n\nThere are no scavengers on this map (it was originally made for 2.x; before 8 player maps could have them)\n\nThere are 13 oil resources per player.\n\nFull advanced bases with hardpoints, mortar pits, bunkers and anti-air are provided.",
+    "id": 247
+}

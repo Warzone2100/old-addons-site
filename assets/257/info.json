@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Jan. 15, 2014, 9:35 p.m.",
+    "oil": "High",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "DA-towers4v0",
+    "license": "CC-0",
+    "download_name": "4cDAtowers4v0.wz",
+    "download_sha256": "01dee4700e87f7008f3f30b0a5b28f1882d3cc7571b00bab3983f37676a51884",
+    "description": "DA-towers map for 4 player\n18,5 oil per player, 16 oil in base",
+    "id": 257
+}

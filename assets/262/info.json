@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Feb. 3, 2014, 10:54 p.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Normal bases",
+    "title": "NovaTown",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "4cNovaTown.wz",
+    "download_sha256": "f0204698698acfb8eaa65e169ed123e8176bee392fbe0952f4cb5b5f1da20151",
+    "description": "Another 'inspired by Sk-Rush' map. This time, created entirely by hand in FlaMe with the exception of adding noise in an image editing program. Naturally, this means that the map itself is definitely not symmetrical, though it's design was.\n\n11.25 oil resources per player.\nEach player has 9 oils on their corner of the map, 2 of which are right inside their base.\n\nScavengers (when enabled) have taken over the centre of the map.",
+    "id": 262
+}

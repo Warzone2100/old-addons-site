@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.1",
+    "created": "Jan. 10, 2014, 2:40 p.m.",
+    "oil": "High",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "DA-towers8v0",
+    "license": "CC-0",
+    "download_name": "8cDAtowers8v0.wz",
+    "download_sha256": "5deb120ce936818bb97d48a552db446bb4100b6db5ecc994ddf3e398af6d1ce7",
+    "description": "DA-towers map for 8 player.\n\n4 vs 4 \n17,5 oil per player\nfull base (16 oil)- all you need and \nwith some Scavengers",
+    "id": 256
+}

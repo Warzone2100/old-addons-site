@@ -1,0 +1,14 @@
+{
+    "author": "NoQ",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "Nov. 3, 2013, 4:41 p.m.",
+    "player_mode": "Campaign",
+    "mod_category": "Other",
+    "title": "Campaign Time Limit mod",
+    "license": "CC-0",
+    "download_name": "camtime31.wz",
+    "download_sha256": "09393c96452f75dd08dbb8ace648f0ac267e972a1c0796663c3521414cd466f7",
+    "description": "This mod makes the campaign more difficult by reducing the time limits of most levels 2 to 6 times. Several missions were left untouched, like the beta evacuation mission or that last stand against the satellites. The campaign was tested to be actually beatable with this mod. Thanks montetank for testing the update to 3.1.",
+    "id": 238
+}

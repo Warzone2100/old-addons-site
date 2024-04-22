@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Oct. 7, 2013, 7:48 p.m.",
+    "oil": "High",
+    "players": "6",
+    "bases": "Normal bases",
+    "title": "DA-julia-6-v1 ",
+    "license": "CC-0",
+    "download_name": "6cDAjulia6v1.wz",
+    "download_sha256": "eb4329901b56c554e41c4b99447071c50475295055bec9fa60d6c537b70e891c",
+    "description": "DA-julia-6-v1 \n\n24 oil per player \nscavengers are only for anti-rush",
+    "id": 236
+}

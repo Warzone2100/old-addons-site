@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 8, 2013, 4:14 a.m.",
+    "oil": "Low",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "DustOff",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "2cDustOff_r1.wz",
+    "download_sha256": "4a33ec76c268cc546d91003e78c28c146d0086432fd56567f37f1a1e52c9c752",
+    "description": "DustOff is a completely asymmetrical 72x72 1v1 map in an arizona setting.\n\n8 oils per player.\n\nThe scavengers occupy 4 of the oil resources on the map when enabled.",
+    "id": 242
+}

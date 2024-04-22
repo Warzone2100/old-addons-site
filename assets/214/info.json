@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 2, 2013, 8:55 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Garden",
+    "license": "CC-0",
+    "download_name": "4cGarden103.wz",
+    "download_sha256": "0a19e6dd6e88d30cb2998c8572749335950acdae6d2654ec8a87a5d74f107de2",
+    "description": "My first map. A little engineered landscape for 4-player FFA, similar to Sk-Rush, with heavy scavengers in the middle.\n\nIt used to be quite a fun to play, and later was used as a primary testing ground for Ultimate Scavenger AI.",
+    "id": 214
+}

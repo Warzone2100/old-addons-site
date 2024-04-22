@@ -1,0 +1,15 @@
+{
+    "author": "Shadow Wolf TJC",
+    "additional_authors": "NoQ, Berg, Jorzi, Aubergine, Black Project, Mysteryem, Flail13",
+    "type": "Mod",
+    "game_version": "3.1.1",
+    "created": "Jan. 21, 2014, 11:14 p.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Stats (Balance)",
+    "title": "Contingency (Beta)",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "contingency_v0.7.10_w_nullbot_and_ultscavs1.wz",
+    "download_sha256": "c0bea9219b644517b2f807fb3513083770a68299be14774d1e6c2bf237ab4a87",
+    "description": "An expansion-styled mod that adds hundreds of new content (weapons, defenses, etc.) and rebalances the whole game from scratch.\n\nNote: this mod's still in beta (current version is 0.7.10), so please send feedback to this mod's forum page if you feel as if anything needs changing. (Right now, some models need work still, but I've been mostly putting them off until I've finished balancing out the gameplay, and finishing work on a seriously-competent version of NullBot.)\n\nNote: this particular version of this mod comes with modified versions of NullBot and Ultimate Scavengers Mod already built in. For other versions of this mod, please visit this mod's forum page.",
+    "id": 258
+}

@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 9, 2013, 7:52 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Normal bases",
+    "title": "Arizatec4",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "4cArizatec4a1.wz",
+    "download_sha256": "d7f4b0193df8e0a2aaa4c6d8dfffec2e6e5ca9c9f4068a784229ed0f4715024d",
+    "description": "A 4 player arizona map which uses a unique blocky/pixelated terrain style.\n\nScavengers block a few key routes around the map, when enabled, and occupy two oil resources.\n\n4 of the oil resources are only accessible through the use of hover technology.\n\n12 oil resources per player.",
+    "id": 243
+}

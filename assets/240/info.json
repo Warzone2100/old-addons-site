@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 8, 2013, 3:24 a.m.",
+    "oil": "Medium",
+    "players": "10",
+    "bases": "No bases",
+    "title": "Hendeka",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "11cHendeka_r1.wz",
+    "download_sha256": "548fc678f813370a6d80fbcb762df1f4b4f0e862aea2519caa4a574513260103",
+    "description": "Important: In order to play this map, you must click the * to show all maps as there is no button to view 11 player maps.\n\nAs scavengers are technically a player and 10 player maps can have scavengers, by modifying the scavenger units and structures after map compilation, it is possible to create 11 player maps.\n\nNo bases due to a discontinued effort working on them for this map. The map itself is a huge rotationally symmetrical 249x249 with 12 oils per player in an arizona setting.",
+    "id": 240
+}

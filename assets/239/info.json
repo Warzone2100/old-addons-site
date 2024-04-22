@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 8, 2013, 2:44 a.m.",
+    "oil": "Medium",
+    "players": "5",
+    "bases": "Advanced Bases",
+    "title": "hydrofin",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "5chydrofinr1.wz",
+    "download_sha256": "d986652ed10a92e1a1662d4f75c472d65d5b5fadfd903a3c6a3b5f41f4f01a5f",
+    "description": "A 5 player rotationally symmetric map in an urban setting with a large amount of traversable water surrounding the main land mass.\n\nFull advanced bases are provided and there is a large scavenger base in the centre of the map when scavengers are enabled.",
+    "id": 239
+}

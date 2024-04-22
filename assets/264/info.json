@@ -1,0 +1,14 @@
+{
+    "author": "Perseus",
+    "type": "Mod",
+    "game_version": "3.1.1",
+    "created": "Nov. 22, 2015, 8:50 a.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Other",
+    "title": "NoArty",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "NoArty_mod.wz",
+    "download_sha256": "8cbd17ea04cac5b39f690930d9643be773b27cfbd21e2ba1935c4715588e0ddb",
+    "description": "'NoArty' mod... When installed allows you to play a whole game without building any Artillery units or emplacements.  This includes: Mortar, Howitzers, Ripples, and Archangels.   Version 2: Pure No Arty...",
+    "id": 264
+}

@@ -1,0 +1,15 @@
+{
+    "author": "Berg",
+    "additional_authors": "Xanax and Per",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "Dec. 10, 2013, 12:17 a.m.",
+    "player_mode": "Both",
+    "mod_category": "Graphics",
+    "title": "MechBorg by xanax",
+    "license": "CC-0",
+    "download_name": "mech_v1.wz",
+    "download_sha256": "fb2c7054d32cb2628d96f3cf9eca8ba7fda42ee9de531af1e6019b72e6f9b3ed",
+    "description": "New Graphic rendition of the cypborg by Xanax.\nAdded newn animation timing",
+    "id": 223
+}

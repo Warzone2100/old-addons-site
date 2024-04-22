@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Aug. 21, 2013, 3:14 p.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Enum",
+    "license": "CC-0",
+    "download_name": "2cEnum.wz",
+    "download_sha256": "6910793f1dff49a2e1d6230a3161ed6ccd73329e6e806c51030e9893f7eb972a",
+    "description": "Map of the two players with scavengerami. The gameplay possible with advanced bases.",
+    "id": 227
+}

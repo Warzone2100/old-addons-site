@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 8, 2013, 4:04 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Normal bases",
+    "title": "IvySummit",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "2cIvySummit_r2.wz",
+    "download_sha256": "664e40056e0d5ff0dad6218e9c73e9aba5b4409f06766c953ebb1e7b07564a9a",
+    "description": "This is a rotationally symmetrical 1v1 duel map that was originally created for use in a tournament.\n\nThe map is 80x80 in a rockies setting. 10.5 oils per player.",
+    "id": 241
+}

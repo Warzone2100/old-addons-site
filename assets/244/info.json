@@ -1,0 +1,15 @@
+{
+    "author": "Mysteryem",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 9, 2013, 7:55 a.m.",
+    "oil": "Medium",
+    "players": "6",
+    "bases": "Normal bases",
+    "title": "Arizatec6",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "6cArizatec6a1.wz",
+    "download_sha256": "282c7dfbb958472f4c42e7a5b2c2016c795b1c6ec6d6165667177101085d1c46",
+    "description": "A 6 player version of my Arizatec map.\n\nScavengers block a few key routes around the map, when enabled, and occupy two oil resources.\n\n4 of the oil resources are only accessible through the use of hover technology.\n\n9.33 oil resources per player.",
+    "id": 244
+}

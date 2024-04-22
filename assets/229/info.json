@@ -1,0 +1,15 @@
+{
+    "author": "IJustDontCare",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Sept. 1, 2013, 4:32 p.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Exploration",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "4cExploration.wz",
+    "download_sha256": "58741c65c00d7980899504ae1d19c22ce08c6794c6f1c754c09f69f1c0bf0ef8",
+    "description": "An asymmetrical map for 2v2 at low oil. For team play. Best team set up is (0, 3) vs (1, 2)",
+    "id": 229
+}

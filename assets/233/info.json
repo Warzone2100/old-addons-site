@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Sept. 29, 2013, 9:36 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Sepi",
+    "license": "CC-0",
+    "download_name": "2cSepi.wz",
+    "download_sha256": "15e7f8cc8104f2c823158316888127839f27eff333971f45b07fc2ed713f1cda",
+    "description": "Map of the two players of scavengers in the middle. The player receives four custom combat units.",
+    "id": 233
+}

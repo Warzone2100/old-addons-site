@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 2, 2013, 9:09 a.m.",
+    "oil": "High",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "Island 8",
+    "license": "CC-0",
+    "download_name": "8cIsland8101.wz",
+    "download_sha256": "ec1653315a25077622a6c5bebc66d904660f075e7c3934fe2b7cbd8468e17d54",
+    "description": "A large 2x2x2x2 team FFA battleground.",
+    "id": 213
+}

@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 19, 2013, 6:18 a.m.",
+    "oil": "Medium",
+    "players": "3",
+    "bases": "Advanced Bases",
+    "title": "Gamma",
+    "license": "CC-0",
+    "download_name": "3cGamma.wz",
+    "download_sha256": "ced3e29eeecb1c1114d67d47ca7e8236362fc99b1e991a2e753597683650683f",
+    "description": "A 3-player FFA map with narrow chokes on your way straight to the enemy and wide battlefield in the middle.",
+    "id": 218
+}

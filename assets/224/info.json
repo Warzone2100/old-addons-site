@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "July 28, 2013, 2:38 a.m.",
+    "oil": "Low",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Clean",
+    "license": "CC-0",
+    "download_name": "2cClean.wz",
+    "download_sha256": "638084e88f209698e2469fd3cc7a989375843f3dc3fc30d011fab96cd59e6aff",
+    "description": "A map with very clean oil placement: 4 on base, 2x2 packs to fight for.",
+    "id": 224
+}
