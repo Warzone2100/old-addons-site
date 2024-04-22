@@ -1,0 +1,17 @@
+{
+    "author": "NoQ",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "April 13, 2013, 12:09 p.m.",
+    "oil": "Low",
+    "players": "5",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "AI",
+    "title": "Anchor",
+    "license": "CC-0",
+    "download_name": "5cAnchorv101.wz",
+    "download_sha256": "a71cc09e77703d8845f3e49dbcff19bb90c696588c7838595e0ff5f7a2406323",
+    "description": "*INSTALL TO MODS AUTOLOAD* \n*then choose the challenge* \n\nA single player challenge with custom various AIs: one computer ally and three enemies. Originally designed as a demonstration of different capabilities of NullBot, it is a hard challenge for strong players, with quite a lot of surprises to make sure you never let your guard down till the very end.",
+    "id": 126
+}

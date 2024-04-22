@@ -1,0 +1,16 @@
+{
+    "author": "Berg",
+    "additional_authors": "Fabio and Diorama",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 24, 2013, 6:48 a.m.",
+    "oil": "Low",
+    "players": "8",
+    "bases": "Normal bases",
+    "title": "NoMansLand",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "8cnomansland.wz",
+    "download_sha256": "31358cd40f7769b85573b246d4045b4c08f19c9cea4f625fee11940890a068f4",
+    "description": "8 player map with low oil\nHeavy scav camps in middle",
+    "id": 152
+}

@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "additional_authors": "Berg & Black Project & Mysteryem & Flail13",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "April 23, 2013, 6:42 a.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Stats (Balance)",
+    "title": "WZ Mini: Scavenger Wars",
+    "license": "CC-0",
+    "download_name": "wzmini012.mod.wz",
+    "download_sha256": "0d04f97023a8b88eabe15c3aa220acb98cc5adebc2e18196a93d18b196bbadfb",
+    "description": "A mod that makes you play as scavengers in skirmish games. You build scavenger structures and produce scavenger vehicles.\n\nSee this picture for the complete tech tree:\nhttp://forums.wz2100.net/download/file.php?id=12600&mode=view\n\nTo play skirmish games choose NullBot ~Mini~ as your opponent (supplied with the mod); other AIs will not work.",
+    "id": 149
+}

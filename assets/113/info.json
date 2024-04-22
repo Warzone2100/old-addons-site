@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 3, 2013, 5:04 a.m.",
+    "oil": "Extreme",
+    "players": "10",
+    "bases": "Normal bases",
+    "title": "DA-mt-ray",
+    "license": "CC-0",
+    "download_name": "10cDAmtrayv2.wz",
+    "download_sha256": "90c5d5bee827dc6695fec1808b1ba0ccb03a7b15c6495c354b41bd00bec6b2ed",
+    "description": "5 vs 5\n\n24 oil/base + from scavengers",
+    "id": 113
+}

@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 13, 2013, 12:09 p.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Polarity",
+    "license": "CC-0",
+    "download_name": "2cPolarity.wz",
+    "download_sha256": "904ebcd9d8e261732b06a4814c454bae6cb0e6d1a82df54f5c2b27e31a6c9e1e",
+    "description": "A duel map with a lot of defensive positions. In particular, you can protect your main choke from highground much earlier than you actually reach it.",
+    "id": 127
+}

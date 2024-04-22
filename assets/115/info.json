@@ -1,0 +1,15 @@
+{
+    "author": "Amiral JCDG",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 6, 2013, 1:43 p.m.",
+    "oil": "Medium",
+    "players": "7",
+    "bases": "Normal bases",
+    "title": "JCDG_Nowhere",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "7cJCDG_Nowhere.wz",
+    "download_sha256": "039cbdd767be98585ca29dd42018000811e888b28b9c39038e056196ea3528f3",
+    "description": "This huge non-symmetrical map provides a beautiful and detailed landscape and uses the offset, so the end of the playing area doesn't corresponds to the end of the map.\n- For 6 players +1 extra advanced base in the middle (for a bot for example) +1 scavenger base.\n- Total size : 250x250, playable : 200x200.\n- 4 oil in each base +in avearge 60 on the rest of the map.\n- Some lakes and a lot of mountains.\n- Playable with or without VTOLs.\n- The gateways are all placed in the strategic points, so the bots are not disavantaged.\n- Tileset : Arizona.",
+    "id": 115
+}

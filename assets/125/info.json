@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 12, 2013, 9:33 p.m.",
+    "oil": "Low",
+    "players": "10",
+    "bases": "Advanced Bases",
+    "title": "Orion",
+    "license": "CC-0",
+    "download_name": "10cOrion.wz",
+    "download_sha256": "c6391fc2947e570bf38513e7e1ff1cf416c97c2bb0bbc4bd5eafd9d3a6aa5803",
+    "description": "Map of 10 players from scavengers.\nOil sources are on the sides of most maps.",
+    "id": 125
+}

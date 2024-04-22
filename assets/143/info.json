@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 19, 2013, 4:33 a.m.",
+    "oil": "Medium",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "Port",
+    "license": "CC-0",
+    "download_name": "8cPort.wz",
+    "download_sha256": "3be55dcdb0a9a02b90a57bc390814b0b51d8fec5370a4b1cd0c32caed7aab28b",
+    "description": "Pretty big map for 8 players.",
+    "id": 143
+}

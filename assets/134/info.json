@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 16, 2013, 4:48 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Tapeworm",
+    "license": "CC-0",
+    "download_name": "2cTapeworm.wz",
+    "download_sha256": "d806823546eb51466813974fca45bd335c2822eacd434ce3336bdc95fca2e42e",
+    "description": "Longitudinal map for two players from scavengers.",
+    "id": 134
+}

@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 15, 2013, 4:45 a.m.",
+    "oil": "Medium",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "S_Base_V2",
+    "license": "CC-0",
+    "download_name": "8cS_Base_V2.wz",
+    "download_sha256": "d8a21053bd5b352511f29f6ac7eb8e34e1630d3a38147ea91a6a6be243c48ba3",
+    "description": "Map of 8 players. When you play with advanced database you are unable to building free of oil springs, you need to bounce the enemy to have more.\nThe V2 added gate.",
+    "id": 133
+}

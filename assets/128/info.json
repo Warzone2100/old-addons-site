@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 13, 2013, 12:09 p.m.",
+    "oil": "Low",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Urban Mystery",
+    "license": "CC-0",
+    "download_name": "2cUrbanMystery.wz",
+    "download_sha256": "3387e94c92381167f56f0bfb60e4cd5ad24597e94392a5135e980ae19e4d4bbc",
+    "description": "A duel map that demonstrates many new features of v3.1, like neutral walls, bridge features, nuclear reactors, white-on-blue trees and top-secret laboratories. \n\n",
+    "id": 128
+}

@@ -1,0 +1,15 @@
+{
+    "author": "Olrox",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 19, 2013, 3:10 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Arena #14",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "4cArena_14.wz",
+    "download_sha256": "8bc986184c20aaa333617aeb7bf268d037e3ee28cf517298bf843a4972aac577",
+    "description": "This is the urban arena I've created, with great attention to detail and texturing. It supports free-for-all, 1x1 (with two building grounds for each player) or 2x2 gameplay.",
+    "id": 140
+}

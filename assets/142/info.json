@@ -1,0 +1,15 @@
+{
+    "author": "Olrox",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 19, 2013, 3:19 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Garond Valley",
+    "license": "CC-BY-SA-3.0+/GPLv2+",
+    "download_name": "4cGarondValley.wz",
+    "download_sha256": "55e2df7935b9bd6b8d2b5976203f7798d1a3f5aeecb356a93c3322f800b61b82",
+    "description": "This is a mountain tileset map I've created to promote an intensive dispute over resources. They are evidently marked on the map, so everyone can find them easily. This map promotes extended games since the bases are naturally strongly fortified (by cliffs).",
+    "id": 142
+}

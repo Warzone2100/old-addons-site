@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 14, 2013, 9:30 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Betelgeuse_V1",
+    "license": "CC-0",
+    "download_name": "4cBetelgeuse_V1.wz",
+    "download_sha256": "4f6534babedb6bde5c865c2492eacea40907a9f3ef39c06125b43f55b8a67a52",
+    "description": "Map of 4 players. The V1 added gates.",
+    "id": 132
+}

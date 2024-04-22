@@ -1,0 +1,17 @@
+{
+    "author": "NoQ",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "April 7, 2013, 2:47 a.m.",
+    "oil": "Low",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "Palace",
+    "license": "CC-0",
+    "download_name": "6cPalace.wz",
+    "download_sha256": "f56492ec6ed87f3442f92555fd84c6d331fcf0db4f68745d790064261e106765",
+    "description": "A 3x3 map with custom textures known as \"the marble tileset\".\n\nIt's a team battle map with slightly more than 6 oils per player and very few key chokepoints for better teamwork.",
+    "id": 117
+}

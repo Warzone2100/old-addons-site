@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 19, 2013, 5:05 a.m.",
+    "oil": "Medium",
+    "players": "3",
+    "bases": "Advanced Bases",
+    "title": "Sector_G1",
+    "license": "CC-0",
+    "download_name": "3cSector_G1.wz",
+    "download_sha256": "ddb034eab0cda801d8e7ae381d888360266c9ea2cfc71394c7688185da1bd317",
+    "description": "Map of three players from scavengers.",
+    "id": 145
+}

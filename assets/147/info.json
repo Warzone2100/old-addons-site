@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 19, 2013, 10:43 p.m.",
+    "oil": "High",
+    "players": "6",
+    "bases": "Normal bases",
+    "title": "6c-DA-europe",
+    "license": "CC-0",
+    "download_name": "6cDAeuropev2b.wz",
+    "download_sha256": "3d580d244d580877e56c2f969442982b9ebd80553174e227f9d03faede63ebb1",
+    "description": "designed for skirmish battle",
+    "id": 147
+}

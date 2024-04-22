@@ -1,0 +1,16 @@
+{
+    "author": "sensor",
+    "additional_authors": "sensor",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 14, 2013, 9:26 a.m.",
+    "oil": "Low",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "title": "Team_Allies",
+    "license": "CC-0",
+    "download_name": "6cTeam_Allies.wz",
+    "download_sha256": "570a0d92b5e87d121e56c5f3e3ca64cbef55d67bd664af710c790c3e027aa243",
+    "description": "Map of 6 players with small amounts of oil, not scavengers. On this map you can play alone or select the team. In places where there are craters truck lines (computers) should build a gate.",
+    "id": 131
+}

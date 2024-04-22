@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "additional_authors": "Berg & Black Project & Mysteryem & Flail13",
+    "type": "Mod",
+    "game_version": "3.1.1",
+    "created": "Sept. 27, 2014, 8 a.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "AI",
+    "title": "Ultimate Scavenger AI",
+    "license": "CC-0",
+    "download_name": "ultimatescavs116.mod.wz",
+    "download_sha256": "724b9515c5d753e586a848e7cbb3c24de81a72e6a33c64340686cbc5a029d782",
+    "description": "This mod is supposed to make the A.I. script that controls skirmish game scavengers come up with some advanced behavior, such as capturing oil derricks, building bases and defensive structures.\n\nThey will also repair their vehicles, produce different sorts of helicopters, three-turret war trucks and nexus link tanks.\n\nv1.15: keep up with balance changes of Warzone 2100 v3.1.1.\nv1.16: fix broken weapon sounds.",
+    "id": 148
+}

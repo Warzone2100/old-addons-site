@@ -1,0 +1,15 @@
+{
+    "author": "duda",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 19, 2013, 10:42 p.m.",
+    "oil": "High",
+    "players": "10",
+    "bases": "Normal bases",
+    "title": "10c-DA-europe",
+    "license": "CC-0",
+    "download_name": "10cDAeurope_vb.wz",
+    "download_sha256": "eeffb304a31ffa0a90854f27d8ca54b2ae6ee4c7f980ad2ac2036d7132121568",
+    "description": "DA-europe\n\ndesigned for skirmish",
+    "id": 146
+}

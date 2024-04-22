@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 17, 2013, 4:53 a.m.",
+    "oil": "Medium",
+    "players": "5",
+    "bases": "Advanced Bases",
+    "title": "Progress",
+    "license": "CC-0",
+    "download_name": "5cProgress.wz",
+    "download_sha256": "ae097aeaf51f6a2b86a56fd9ae6891fe4563c27ef6906424dd54527926764b11",
+    "description": "A large five-player FFA map with a lot of huts in the middle.",
+    "id": 136
+}

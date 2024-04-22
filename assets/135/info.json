@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 17, 2013, 4:49 a.m.",
+    "oil": "Low",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Blizzard",
+    "license": "CC-0",
+    "download_name": "4cBlizzard.wz",
+    "download_sha256": "b9dd7154cdaca72d4850eef0b00a2f34d99e8ab428a82044c856433d681b2eef",
+    "description": "A low-oil four-player FFA map with ultra rough mountains and and long narrow passages.",
+    "id": 135
+}
