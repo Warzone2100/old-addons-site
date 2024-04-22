@@ -1,0 +1,18 @@
+{
+    "author": "NoQ",
+    "additional_authors": "Berg",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "April 1, 2013, 5:01 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "Inversion",
+    "license": "CC-0",
+    "download_name": "4cInversion.wz",
+    "download_sha256": "3ac54f27d7a52560916f11b56b42b9c6d8de3a404e1efb6d3bb644a0f39e6e6f",
+    "description": "A 4-player map with customized road textures.\n\nThe map is a large free-for-all. Even though the middle hill doesn't have any oil, the oils around it are bound to be an object of interest, and it seems impossible to protect them with a single army; thus army placement needs to be considered carefully on this map.",
+    "id": 32
+}

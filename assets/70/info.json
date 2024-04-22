@@ -1,0 +1,18 @@
+{
+    "author": "Fabio_IT",
+    "additional_authors": "NoQ (tileset)",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "March 28, 2013, 12:20 p.m.",
+    "oil": "High",
+    "players": "10",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "FabCrazyScavs",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "10cFabCrazyScavs3.wz",
+    "download_sha256": "c43e9d8d0f2e9c75903adcac9259715998b55a3984639b25187c6194ce9b370f",
+    "description": "This map starts as low oil, and oil becomes high when you kill the scavs.\nWhen scavenger are under attack they running across every base, and they killing and destroy all.\nIt's really hard survive the first 20 minuts under their attack.\nOn the middle scavengers with heavvy weapon, and some extra oil.\nDon't play this map with bot, it defeat early.\nBeautiful marble/candy  tileset made by NoQ here, and beautiful map view.\nNot recommended for newbie.",
+    "id": 70
+}

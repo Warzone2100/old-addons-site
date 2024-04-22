@@ -1,0 +1,17 @@
+{
+    "author": "Fabio_IT",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "March 28, 2013, 12:20 p.m.",
+    "oil": "High",
+    "players": "6",
+    "bases": "Normal bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "FabMountainSquare",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "6cFabMountSquare.wz",
+    "download_sha256": "6e237f502d5a412f03f6e397e1997adf0cfac67735625bf4341dbf37449c1960",
+    "description": "30 oils,  scavs medium / hard with 18 extra oils.\nSome custom tiles.  Very big map.",
+    "id": 69
+}

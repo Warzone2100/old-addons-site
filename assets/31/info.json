@@ -1,0 +1,17 @@
+{
+    "author": "NoQ",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "March 22, 2013, 8:53 p.m.",
+    "oil": "Low",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "Mirage",
+    "license": "CC-0",
+    "download_name": "6cMirage102.wz",
+    "download_sha256": "414b0c6da0b8a152fd2fbd6b29f441e5fe99f9185cb9bee780dee7ebd20f5bf7",
+    "description": "A 3x3 team duel map with custom textures similar to the paradise tileset mod, but with a little more extra eye candy to notice.\n\nEach team consists of a fortress for two players with 4 oils each and a standalone highground position for a single player with 6 oils.",
+    "id": 31
+}

@@ -1,0 +1,18 @@
+{
+    "author": "NoQ",
+    "additional_authors": "Berg",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "March 23, 2013, 3:40 p.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "Academy",
+    "license": "CC-0",
+    "download_name": "4cAcademy101.wz",
+    "download_sha256": "05dcfae83b6dfe953226b22a3eeac04079c26d58e605637e952d090b2017cdcb",
+    "description": "A 4-player map with customized road textures. \n\nThis is a simple free-for-all map with well-defended starting positions and large scavenger base at the middle.",
+    "id": 33
+}
