@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 2, 2013, 8:17 a.m.",
+    "oil": "Low",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Encounter",
+    "license": "CC-0",
+    "download_name": "4cEncounter.wz",
+    "download_sha256": "caa8033ed4d150d2a817b10a843cbf0dc5c77c3dd969729d7c0985147e32bb6d",
+    "description": "A low oil 2x2 battle, with optional blocking scavengers and complicated middleground.",
+    "id": 199
+}

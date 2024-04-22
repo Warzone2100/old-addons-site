@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 2, 2013, 8:45 a.m.",
+    "oil": "Medium",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "title": "Rubber",
+    "license": "CC-0",
+    "download_name": "6cRubber.wz",
+    "download_sha256": "7249ba5dddd612759f72ca1e038b9800c14e113c386ebde134fba7561095b881",
+    "description": "A large double-symmetric 3x3 team duel.",
+    "id": 210
+}

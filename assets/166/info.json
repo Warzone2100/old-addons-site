@@ -1,0 +1,17 @@
+{
+    "author": "NoQ",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "April 27, 2013, 12:03 p.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "Marble",
+    "license": "CC-0",
+    "download_name": "2cMarble.wz",
+    "download_sha256": "8f57f73a70fb6501288f08c2b77f4ae5f948915aa82f8f2b8688f4eee801ab7f",
+    "description": "A 1x1 duel map where the custom textures set now known as \"the marble tileset\" was first introduced.",
+    "id": 166
+}

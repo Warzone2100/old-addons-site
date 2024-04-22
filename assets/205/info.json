@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 2, 2013, 8:30 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Artifact",
+    "license": "CC-0",
+    "download_name": "4cArtifact101.wz",
+    "download_sha256": "3c477ca140dbb0f92475188a8f9412afc1182091c1dcf5ad970d9c9b5aeae300",
+    "description": "A wide 4-player FFA map. Includes unrealistically strong scavengers.",
+    "id": 205
+}

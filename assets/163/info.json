@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 27, 2013, 11:44 a.m.",
+    "oil": "Medium",
+    "players": "6",
+    "bases": "Advanced Bases",
+    "title": "Arid",
+    "license": "CC-0",
+    "download_name": "6cArid.wz",
+    "download_sha256": "54a0bf6c8358c36b096df5f30f07f8209a2f321cf9e51a1afb8f6ddffecc74ed",
+    "description": "A large 3x3 team battle map with complicated terrain.",
+    "id": 163
+}

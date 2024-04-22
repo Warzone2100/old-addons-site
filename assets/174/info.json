@@ -1,0 +1,14 @@
+{
+    "author": "NoQ",
+    "type": "Mod",
+    "game_version": "3.1.2",
+    "created": "Jan. 7, 2016, 9:51 a.m.",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "AI",
+    "title": "NullBot: Extra personalities",
+    "license": "CC-0",
+    "download_name": "nullbot212extras.wz",
+    "download_sha256": "d0d7019aeefbf11d05a332c5890b5a0a7bd63836b9b392756437e0a57b2fc1ef",
+    "description": "This package includes a few modified versions of NullBot AI. Unlike the standard NullBot, they all use fixed strategies, instead of randomly choosing their weapons and early build orders.\n\nNullBot \"MR\" : Focuses on machineguns and rockets. Doesn't use large bodies. Always uses Lab-Factory-Factory-Lab-CC engineering-first build order. Historically, it was the first personality of NullBot ever created.\n\nNullBot \"MC\": Focuses on machineguns and cannons. It is also the rusher, using the state-of-the-art three-factory rush as its build order.\n\nNullBot \"Flame\": Focuses on pure flamers. Spams flamer cyborgs until it gets hovers.\n\nIt also includes four challenges that make use of the different AI personalities.\n\nNOTE for linux users: make sure physfs package on your system is not the buggy v2.0.2, otherwise some AIs from this mod will not work.\n\nNOTE: Since NullBot \"Hover\" and NullBot \"Turtle\" were merged into the base game (since v3.1.1), they are no longer provided with this mod (since v2.07).",
+    "id": 174
+}

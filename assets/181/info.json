@@ -1,0 +1,14 @@
+{
+    "author": "Berg",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "May 9, 2013, 11:32 a.m.",
+    "player_mode": "Both",
+    "mod_category": "Graphics",
+    "title": "Advanced HQ",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "hq.wz",
+    "download_sha256": "f0dc451a4434749a9ab46b31fbac6eebfcc9c117d0796200d459a99bb6c6e2ad",
+    "description": "Animated HQ maybe a bit futuristic .",
+    "id": 181
+}

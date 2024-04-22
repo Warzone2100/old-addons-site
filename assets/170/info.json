@@ -1,0 +1,15 @@
+{
+    "author": "Charca",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "Nov. 23, 2013, 1:20 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Normal bases",
+    "title": "Scavenger Lake",
+    "license": "CC-0",
+    "download_name": "4cScavengerLake.wz",
+    "download_sha256": "bcd1d249d112dea2dadb22a606724ecc0c86b90789beeed2bdf544daa6bbfebd",
+    "description": "A basic map with Scavenger naval units and 4 players.",
+    "id": 170
+}

@@ -1,0 +1,14 @@
+{
+    "author": "Berg",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "May 21, 2013, 11 a.m.",
+    "player_mode": "Both",
+    "mod_category": "Graphics",
+    "title": "Propulsion",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "propulsion.wz",
+    "download_sha256": "fc715c3820ede2af5397e39e87d40c65d0e1ca887e57389d1bf8f6b176940810",
+    "description": "New Propulsion models using Pie3 format.",
+    "id": 198
+}

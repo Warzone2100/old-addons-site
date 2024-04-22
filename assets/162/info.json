@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 27, 2013, 11:41 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Serenity",
+    "license": "CC-0",
+    "download_name": "2cSerenity.wz",
+    "download_sha256": "277a2501c5dda29c2dcea7eae2ba092e2898b8cb5a832ae20982a217bd0fc911",
+    "description": "A small 1x1 duel map with gameplay focusing on flank control.",
+    "id": 162
+}

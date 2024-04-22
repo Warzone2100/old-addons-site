@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "May 8, 2013, 5:25 a.m.",
+    "oil": "Medium",
+    "players": "2",
+    "bases": "Advanced Bases",
+    "title": "Confrontation",
+    "license": "CC-0",
+    "download_name": "2cConfrontation.wz",
+    "download_sha256": "6d7f90da3d603be46a44599d9447d68d5c9c987a79d7b061c0773a2fa234a866",
+    "description": "A duel map with a very narrow choke point observable from above by both players. It should allow long games involving artillery wars.",
+    "id": 186
+}

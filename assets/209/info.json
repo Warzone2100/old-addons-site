@@ -1,0 +1,18 @@
+{
+    "author": "NoQ",
+    "additional_authors": "aubergine",
+    "type": "Map-Mod",
+    "game_version": "3.1.0",
+    "created": "June 2, 2013, 8:43 a.m.",
+    "oil": "Medium",
+    "players": "5",
+    "bases": "Advanced Bases",
+    "player_mode": "Skrimish/MP",
+    "mod_category": "Graphics",
+    "title": "Starfish",
+    "license": "CC-0",
+    "download_name": "5cStarfish101.wz",
+    "download_sha256": "f9fd07f20bd5f4e50a9c010de40781094e10b1426f4f9f2a15fc111a78b3e4ba",
+    "description": "The oldest balanced 5-player map i remember. It used certain terrain hacks that no longer work, so now it's reworked as a map-mod to keep the original looks. Also includes a skybox by aubergine.\n\nA relatively large 5-player FFA map.",
+    "id": 209
+}

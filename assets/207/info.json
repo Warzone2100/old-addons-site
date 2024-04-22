@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "June 2, 2013, 8:35 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Urban Twirl",
+    "license": "CC-0",
+    "download_name": "4cTwirl103.wz",
+    "download_sha256": "06e98ccb10e0e30682da3c11609b1fbe784299735559a970b8c85b36c2973e7a",
+    "description": "An urban 4-player FFA map with overweighted hover-only central oil. Includes multiple points of highground advantage for both defense and offense.",
+    "id": 207
+}

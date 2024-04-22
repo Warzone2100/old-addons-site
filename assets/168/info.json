@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 27, 2013, 12:09 p.m.",
+    "oil": "Medium",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "The Source",
+    "license": "CC-0",
+    "download_name": "8cSourcev102.wz",
+    "download_sha256": "82ee00a697a0d9c0412ed81a403ccf88a0bf45e8e3bc53b2f1bff62475f39466",
+    "description": "A large 8-player FFA map. ",
+    "id": 168
+}

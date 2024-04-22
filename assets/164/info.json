@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 27, 2013, 11:52 a.m.",
+    "oil": "Medium",
+    "players": "8",
+    "bases": "Advanced Bases",
+    "title": "Rush Hour",
+    "license": "CC-0",
+    "download_name": "8cRushHour.wz",
+    "download_sha256": "f17d99db2d7eed566f362820f6a4e631ce7f8fb0428edda16cb9a63aa61bef65",
+    "description": "A large 2x2x2x2 team FFA map.\n\nThe middle is pretty special. There are 5 oils here, 4 of which can be targeted from the middle, but cannot be easily accessed from there. So controlling the middle gives you just a few extra oil, but completely turtling in your bases will actually give your enemy much more extra oils. There are also 8 oil drums in the middle, accessible only by tanks; 4 of the middle oils are also blocked.",
+    "id": 164
+}

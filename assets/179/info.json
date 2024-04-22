@@ -1,0 +1,14 @@
+{
+    "author": "Berg",
+    "type": "Mod",
+    "game_version": "3.1.0",
+    "created": "May 5, 2013, 1:59 a.m.",
+    "player_mode": "Both",
+    "mod_category": "Graphics",
+    "title": "Derrick",
+    "license": "CC-BY-3.0+/GPLv2+",
+    "download_name": "blderik.wz",
+    "download_sha256": "acf7238f539911ed4ec64bfff15600373972a022d3a2ad8771e0e758b9f62a1a",
+    "description": "Derrick reworked to use ingame textures.",
+    "id": 179
+}

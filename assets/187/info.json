@@ -1,0 +1,15 @@
+{
+    "author": "NoQ",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "May 8, 2013, 5:29 a.m.",
+    "oil": "Medium",
+    "players": "4",
+    "bases": "Advanced Bases",
+    "title": "Mist",
+    "license": "CC-0",
+    "download_name": "4cMistv101.wz",
+    "download_sha256": "412694c9e7ff5561d1bb28d41f3d8e9b2090347a3c31b3850c907960458358ae",
+    "description": "A 4-player FFA battleground. Initial bases are a bit tight, so you'd need to fight not only for oil but also for room.",
+    "id": 187
+}

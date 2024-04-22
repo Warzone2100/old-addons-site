@@ -1,0 +1,15 @@
+{
+    "author": "Charca",
+    "type": "Map",
+    "game_version": "3.1.0",
+    "created": "April 28, 2013, 9:01 a.m.",
+    "oil": "Low",
+    "players": "6",
+    "bases": "Normal bases",
+    "title": "Rock Plain",
+    "license": "CC-0",
+    "download_name": "6cRockPlain.wz",
+    "download_sha256": "498ddced98dfa61cfa2bbf8c5e22f6cc00707c68d2ec69eb26b50fd3a02e37a9",
+    "description": "A map with a lot of Scavenger units and mortar pits.Designed for 6 players.",
+    "id": 169
+}
